@@ -1,0 +1,2 @@
+- Walmart_sales (Abandoned).ipynb 
+Not suitable for Linear Regression
